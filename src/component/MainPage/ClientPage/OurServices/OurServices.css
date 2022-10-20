@@ -1,0 +1,27 @@
+.serviceButton{
+    background: linear-gradient(268.31deg, rgba(98, 25, 252, 0.72) 11.08%, rgba(3, 83, 237, 0.94) 100%);
+    border-radius: 12px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    line-height: 35px;
+    padding: 2px 20px;
+}
+
+.serviceImage {
+    width: 100% ;
+    
+}
+.serviceButton:hover{
+    background-color: black;
+    color: white;
+
+}
+
+@media screen and (max-width: 720px) and (min-width: 320px) {
+.serviceImage {
+    width: 15% !important;
+    padding-bottom: 20px;
+  
+}
+}

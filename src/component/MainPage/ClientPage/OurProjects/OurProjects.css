@@ -1,0 +1,15 @@
+.projectIcon{
+    font-size: 2rem;
+}
+.projectCard{
+border-radius: 7px;
+    background: linear-gradient(145deg, #ffffff, #dddddd);
+    box-shadow: 5px 5px 10px #626262,
+        -5px -5px 10px #ffffff;
+}
+
+.projectCard:hover{
+    background: #554A9B !important;
+    color: rgb(249, 247, 247);
+    transition: 0.3s ease-in;
+}

@@ -1,0 +1,9 @@
+.clientImage{
+    width: 80px;
+}
+
+@media screen and (max-width: 720px) and (min-width: 320px) {
+    .clientImage {
+      
+    }
+}

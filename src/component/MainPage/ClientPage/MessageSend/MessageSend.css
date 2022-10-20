@@ -1,0 +1,11 @@
+.messageSendIcon{
+width: 70%;
+}
+
+
+@media screen and (max-width: 720px) and (min-width: 320px) {
+.messageSendIcon {
+width: 50%;
+
+}
+}

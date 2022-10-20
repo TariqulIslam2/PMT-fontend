@@ -1,0 +1,7 @@
+@media screen and (max-width: 500px) and (min-width: 320px) {
+    .loginfooter {
+       display: none;
+    }
+
+   
+}
